@@ -27,7 +27,7 @@ I am a Fullstack developer who highly enjoys the never ending learning journey o
 
 ---
 
-## My projects 👇
+## Personal projects 👇
 
 ## 🥋 ClassDojo  
 ####  [💻 Website](www.staging.classdojo.ninja) [📜 Repo](https://github.com/class-dojo) 
