@@ -38,11 +38,11 @@ replayst is a mobile app that allows you to track your game collection and check
 
 #### The tools of the trade:
 FE: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24px" title="React Native"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="24px" title="Javascript" /> &nbsp; &nbsp; &nbsp; 
-BE: <img src="https://the-guild.dev//blog-assets/nodejs-esm/nodejs_logo.png" width="24px" title="NodeJS" /> + <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="24px" title="Express" /> -- <img src="https://images.opencollective.com/frontendmasters/0b9cda4/logo/256.png" width="24px" title="Mongoose"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="24px" title="MongoDB" />  &nbsp; &nbsp; &nbsp; 
+BE: <img src="https://the-guild.dev//blog-assets/nodejs-esm/nodejs_logo.png" width="24px" title="NodeJS" />  <img src="https://symbols.getvecta.com/stencil_79/88_expressjs-icon.54bb6035d3.jpg" width="24px" title="Express" />  <img src="https://images.opencollective.com/frontendmasters/0b9cda4/logo/256.png" width="24px" title="Mongoose"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="24px" title="MongoDB" />  &nbsp; &nbsp; &nbsp; 
 API: <img src="https://alternativesp.com/wp-content/uploads/2021/02/rawg_114822.png" width="24px" height="24px" title="rawg.io"/>
 
 
 
 ![Filo's GitHub stats](https://github-readme-stats.vercel.app/api?username=grampassonnia&show_icons=true&theme=tokyonight&hide=stars,issues)
-&nbsp; 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grampassonnia&layout=compact&theme=tokyonight)
