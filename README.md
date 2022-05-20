@@ -43,7 +43,7 @@ Infrastructure: <img src="https://pbs.twimg.com/profile_images/14737565328272465
 
 ## 🕹 replayst
 ####  [📜 repo](https://github.com/grampassonnia/replayst) 
-replayst is a mobile app that allows you to track your game collection and check it anywhere, anytime. Leveraging the RAWG database, you can search for almost any official or indie game ever released, save it to your favourite titles, to your wishlist and finally say fairwell to double purchases (yes: I'm guilty of it, too).
+replayst is a mobile app that allows you to track your game collection and check it anywhere, anytime. Leveraging the RAWG database, you can search for almost any official or indie game ever released, save it to one of your lists and finally say fairwell to double purchases (yes: I'm guilty of it, too).
 
 #### The tools of the trade:
 FE: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24px" title="React Native"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="24px" title="Javascript" /> <img src="https://inceptum-stor.icons8.com/TErRc1E6L9wX/expoicon.jpg" width="24px" title="Expo"/> &nbsp; &nbsp; &nbsp; 
