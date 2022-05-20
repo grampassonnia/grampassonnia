@@ -19,8 +19,9 @@ I am a Fullstack developer who highly enjoys the never ending learning journey o
 
 <!-- [![Linkedin: MYNAME](https://img.shields.io/badge/-MY_NAME_PASCAL_CASE-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/MYNAME/)](https://www.linkedin.com/in/MYNAME/) -->
 
+---
 
-# My projects
+## My projects
 
 ## 🥋 ClassDojo  
 ####  [💻 Website](www.staging.classdojo.ninja) [📜 Repo](https://github.com/class-dojo) 
