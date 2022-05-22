@@ -43,7 +43,7 @@ Infrastructure: <img src="https://pbs.twimg.com/profile_images/14737565328272465
 
 ## 🕯 CandleCommerce  
 #### [📜 Repo](https://github.com/KachiiC/CandleCommerce)
-CandleCommers is a legacy project for an e-commerce web-app, built in a team of 2. On the frontend we refactored the code from JavaScript to TypeScript and redesigned the UI, while in the back end we migrating the database from a NoSQL to a SQL one, also refactoring the JS code into TS and adding integration tests.  
+CandleCommers is a legacy project for an e-commerce web-app template, built in a team of 2. On the frontend we refactored the code from JavaScript to TypeScript, redesigned the UI, and added authentication via Auth0. On the backend we migrated the database from NoSQL to SQL model, refactored the code from JS to TS and added integration tests.  
 
 #### The tools of the trade:
 FE: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24px" title="React"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  width="24px" title="Typescript" /> <img src="https://images.opencollective.com/ant-design/6f1eb50/logo/256.png" width="24px" title="Ant Design"/> <img src="https://ps.w.org/auth0/assets/icon-256x256.png?rev=1194871" width="24px" title="Auth0"/> &nbsp; &nbsp; &nbsp; 
