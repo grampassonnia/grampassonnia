@@ -47,7 +47,7 @@ CandleCommers is a legacy project for an e-commerce web-app, built in a team of 
 
 #### The tools of the trade:
 FE: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24px" title="React"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  width="24px" title="Typescript" /> <img src="https://images.opencollective.com/ant-design/6f1eb50/logo/256.png" width="24px" title="Ant Design"/> &nbsp; &nbsp; &nbsp; 
-BE: <img src="https://the-guild.dev//blog-assets/nodejs-esm/nodejs_logo.png" width="24px" title="Node.js"/> <img src="https://symbols.getvecta.com/stencil_79/88_expressjs-icon.54bb6035d3.jpg" width="24px" title="Express"/> <img src="https://images.tute.io/tute/topic/prisma.png" width="24px" title="Prisma"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="24px" title="PostgreSQL"/> &nbsp; &nbsp; &nbsp;
+BE: <img src="https://the-guild.dev//blog-assets/nodejs-esm/nodejs_logo.png" width="24px" title="Node.js"/> <img src="https://symbols.getvecta.com/stencil_79/88_expressjs-icon.54bb6035d3.jpg" width="24px" title="Express"/> <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/rtlx0sivc7wcr75y5bkj" width="24px" title="Prisma"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="24px" title="PostgreSQL"/> &nbsp; &nbsp; &nbsp;
 Testing: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="24px" title="Jest"/>
 
 ---
