@@ -23,7 +23,7 @@ I am a Fullstack developer who highly enjoys the never ending learning journey o
 
 ![Filo's GitHub stats](https://github-readme-stats.vercel.app/api?username=grampassonnia&show_icons=true&theme=tokyonight&hide=stars,issues)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grampassonnia&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grampassonnia&count_private=true&layout=compact&theme=tokyonight)
 
 ---
 
