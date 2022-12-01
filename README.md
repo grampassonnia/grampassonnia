@@ -21,7 +21,7 @@ I am a Fullstack developer who highly enjoys the never ending learning journey o
 
 ---
 
-![Filo's GitHub stats](https://github-readme-stats.vercel.app/api?username=grampassonnia&count_private=true&show_icons=true&theme=tokyonight&hide=stars,issues)
+![Filo's GitHub stats](https://github-readme-stats.vercel.app/api?username=grampassonnia&count_private=true&show_icons=true&theme=transparent&hide=stars,issues)
 
 ---
 
