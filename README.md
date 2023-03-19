@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Filo! 👋
 
-I am a Fullstack developer who highly enjoys the never ending learning journey offered by Computer Science. When I am not coding or sleeping I like to hit drums, travel, slide on stuff, watch movies and play videogames. I wish days had more than 24 hours. 
+I am a software engineer who highly enjoys the never ending learning journey offered by Computer Science. When I am not coding or sleeping I like to hit drums, travel, slide on stuff, watch movies and play videogames. I wish days had more than 24 hours. 
 
 [![Linkedin: Filippo Ceron](https://img.shields.io/badge/-Filippo_Ceron-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/filippo-ceron/)](https://www.linkedin.com/in/filippo-ceron/)
 
