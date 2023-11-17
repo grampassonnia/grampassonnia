@@ -21,10 +21,6 @@ I am a software engineer who highly enjoys the never ending learning journey off
 
 ---
 
-![Filo's GitHub stats](https://github-readme-stats.vercel.app/api?username=grampassonnia&count_private=true&show_icons=true&theme=transparent&hide=stars,issues)
-
----
-
 ## Personal projects 👇
 
 ## 🥋 Class Dojo  
