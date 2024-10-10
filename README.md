@@ -21,6 +21,12 @@ I am a software engineer who highly enjoys the never ending learning journey off
 
 ---
 
+<details>
+  <img align="left" alt="grampassonnia's Github stats" src="https://github-readme-stats-nu-six-57.vercel.app/api?username=grampassonnia&show_icons=true&hide_border=true" />
+</details>
+
+---
+
 ## Personal projects 👇
 
 ## 🥋 Class Dojo  
