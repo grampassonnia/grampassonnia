@@ -21,7 +21,7 @@ I am a software engineer who highly enjoys the never ending learning journey off
 
 ---
 
-<img alt="grampassonnia's Github stats" src="https://github-readme-stats-nu-six-57.vercel.app/api?username=grampassonnia&show_icons=true&hide_border=true" />
+[![Top Langs](https://github-readme-stats-nu-six-57.vercel.app/api/top-langs/?username=grampassonnia)](https://github.com/grampassonnia/github-readme-stats)
 
 ---
 
