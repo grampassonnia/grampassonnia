@@ -20,9 +20,9 @@ I am a software engineer who highly enjoys the never ending learning journey off
 [![Linkedin: Filippo Ceron](https://img.shields.io/badge/-Filippo_Ceron-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/filippo-ceron/)](https://www.linkedin.com/in/filippo-ceron/)
 
 ---
-
+&nbsp; &nbsp; &nbsp;
 <img align="left" alt="grampassonnia's Github stats" src="https://github-readme-stats-nu-six-57.vercel.app/api?username=grampassonnia&show_icons=true&hide_border=true" />
-
+&nbsp; &nbsp; &nbsp;
 ---
 
 ## Personal projects 👇
